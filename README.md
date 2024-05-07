@@ -1,5 +1,12 @@
 # belajar_flutter123
 
+|                  |                    |
+| ---------------- | ------------------ |
+| <b> Nama         | Galva Al godzali   |
+| <b> NIM          | 312210356          |
+| <b> Kelas        | TI.22.A.3          |
+| <b> Matakuliah   | Pemrograman Mobile |
+
 A new Flutter project.
 
 ## Getting Started
